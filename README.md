@@ -22,7 +22,8 @@ You can submit or search different mockups in the `mock_up` branch.
 
 MIT
 
-## Managed By - Konark Lohat
+## Managed By
+- Name - Konark Lohat
 - Contact - konarklohat123456@gmail.com
 - Text - [<img src="https://img.icons8.com/officel/16/000000/whatsapp.png"/>](https://api.whatsapp.com/send/?phone=917529856345&text=Hey)
 
